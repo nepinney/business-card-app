@@ -12,6 +12,7 @@ Business cards have always been on paper and this app focuses on changing this. 
  - Redux
  - Redux Persist
  - Jest
+ - Light and dark UI mode
 
 ## Status
 
