@@ -16,7 +16,7 @@ Business cards have always been on paper and this app focuses on changing this. 
 
 ## Status
 
-In progress - working on completing UI before implementing functionality
+In progress - Need to complete dark theme color coordination
 
 ## Instructions to run
 
